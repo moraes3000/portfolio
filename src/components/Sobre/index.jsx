@@ -16,6 +16,7 @@ function Sobre() {
                     <Separador />
                     <p>Sou o Bruno, recém formado em Analise de desenvolvimento de sistemas pela Universidade Estacio.</p>
                     <p>Apaixonado pro tecnologia frontend, atualmente estudando ReactJS e NextJS</p>
+                    <p>Trabalho atualmente em uma empresa de intranet na area de suporte, mas faço algumas alterações no frontend e no backend utilizando o framework Django</p>
                 </BoxConteudo>
             </Box>
         </Container>

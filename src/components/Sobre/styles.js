@@ -52,6 +52,9 @@ export const BoxImg = styled.div`
 export const BoxConteudo = styled.div`
   padding: 10px;
   flex: 50%;
+  p{
+    margin-bottom:1rem;
+  }
   @media (max-width: 800px) {
     flex: 100%;
   }
