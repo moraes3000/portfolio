@@ -22,9 +22,7 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
             <Nav className="header">
 
                 <Logo className="">
-                    <a href="#">
-                        Bruno Moraes
-                     </a>
+                    <a href="/">Bruno Moraes</a>
                 </Logo>
 
 
@@ -52,11 +50,8 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
                         <a href="#projeto">Projeto</a>
                     </li>
                     <li onClick={closeMobileMenu}>
-                        <a href="#contato">Contato</a>
+                        <a href="#footer">Contato</a>
                     </li>
-
-
-
                 </Menu>
 
 

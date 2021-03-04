@@ -27,7 +27,7 @@ function Projetoss() {
                                 <h2>{projeto.nome}</h2>
                                 <Separador />
                                 <p>{projeto.descricao}</p>
-                                <a href={`/projeto/${projeto.id}`}>{projeto.id}</a>
+                                {/* <a href={`/projeto/${projeto.id}`}>{projeto.id}</a> */}
 
                             </Card>
                         </Projeto>

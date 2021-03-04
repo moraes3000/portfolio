@@ -22,7 +22,7 @@ export const Nav = styled.div`
 
   padding: 0px 40px;
   height: 80px;
-  width:1200px;
+  width:960px;
   margin: 0 auto;
 `;
 

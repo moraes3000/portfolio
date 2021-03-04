@@ -32,7 +32,7 @@ function App() {
       {/* <Routes /> */}
       <Sobre />
       <Projetoss />
-      <Contato />
+      {/* <Contato /> */}
       <Footer />
       <GlobalStyles />
     </ThemeProvider>

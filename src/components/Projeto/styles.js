@@ -6,7 +6,7 @@ background: ${props => props.theme.colors.secundary};
 color: ${props => props.theme.colors.text};
 
 padding: 0 30px;
-max-width:1200px;
+max-width:960px;
 margin: 20px auto;
 padding-top:20px;
 

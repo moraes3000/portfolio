@@ -7,7 +7,7 @@ import { FaGitSquare, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 
 function Footer() {
     return (
-        <Container id='sobre'>
+        <Container id='footer'>
             <p>Email: <a href="bruno_bmoraes@hotmail.com">bruno_bmoraes@hotmail.com</a></p>
             <ListSocial>
                 <li><a href='https://github.com/moraes3000' target='_blanck' ><FaGitSquare /></a></li>

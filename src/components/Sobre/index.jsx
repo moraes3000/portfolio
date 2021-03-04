@@ -1,5 +1,5 @@
 import React from 'react';
-import Foto from '../../assets/img/foto.jpg'
+import Foto from '../../assets/img/fotoPerfil.png'
 import { Container, Box, BoxImg, BoxConteudo } from './styles';
 import Separador from '../Separador'
 function Sobre() {
